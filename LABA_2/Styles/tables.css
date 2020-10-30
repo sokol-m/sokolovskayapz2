@@ -1,0 +1,28 @@
+<style>
+   table {
+    width: 100%;
+    border: 2px solid #D906D9;
+    border-collapse: separate;
+   }
+   td, th {
+    padding: 3px;
+    border: 1px solid #D906D9;
+   }
+   th {
+    text-align: left;
+    background: #C0FF4C;
+    color: #D906D9;
+    font-weight: bold;
+    border: 5px solid transparent;
+   }
+   tbody tr:hover {
+    background: #4CFFE7;
+    color: #D906D9;
+   }
+   tr.even {
+    background: #202020; /* Цвет фона четных строк */
+   }
+   .la {
+    text-align: center; /* Выравнивание по центру */
+   }
+  </style>

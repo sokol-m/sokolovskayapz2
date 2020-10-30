@@ -1,0 +1,59 @@
+.block1{
+    width: 500px;
+    padding: 20px;
+    padding-right: 20px;
+    border: 4px dashed white;
+    float: left;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    margin: auto 2em;
+   }
+
+ .block2 {
+     width: 780px;
+     background: #C0FF4C;
+     padding: 20px;
+     border: 4px dashed white;
+     margin: auto 2em;
+     position: absolute;
+     height: auto;
+     top: 30px;
+     left: 570px;
+    }
+
+  .block3{
+      width: 820px;
+      padding: 20px;
+      padding-bottom: 0px;
+      margin: auto 2em;
+      position: relative; /* Относительное позиционирование */
+      top: 150px;
+      left: 550px;
+     }
+
+   .block4 {
+       width: 300px;
+       padding: 20px;
+       position: absolute;
+       top: 200px;
+       left: 1000px;
+      }
+
+      .block5 {
+          width: 730px;
+          position: relative;
+          top: 190px;
+          left: 640px;
+         }
+
+         .block6 {
+           width: 500px;
+           padding: 20px;
+           padding-right: 20px;
+           border: 4px dashed white;
+           float: left;
+           position: absolute;
+           left:30%;
+           margin: auto 2em;
+          }

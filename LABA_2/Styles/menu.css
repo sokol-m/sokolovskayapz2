@@ -1,0 +1,20 @@
+.top-menu{
+  width: 400px;
+  padding: 20px;
+  border: 4px dashed white;
+  float: left;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  margin: auto 2em;
+  color: #4CFFE7;
+  line-height: 44px;
+  font-size: 20px ;
+  font-weight: lighter ;
+  font-family: Georgia;
+   }
+
+.top-menu li:hover ul{
+    display:block;
+    left:0px;
+}
